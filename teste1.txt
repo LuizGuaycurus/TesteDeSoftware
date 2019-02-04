@@ -1,0 +1,20 @@
+sem números 0
+
+sem números seguidos
+
+sem caracteres especiais
+
+angulos internos do 3 tem que ser de 180º
+
+Triângulo escaleno: Todos os lados diferentes.
+
+Triângulos isósceles: dois lados iguais 
+
+Triângulo equilátero: Todos os lados e iguais. 
+
+
+
+Para construir um triângulo não podemos utilizar qualquer medida, tem que seguir a condição de existência:
+Para construir um triângulo é necessário que a medida de qualquer um dos lados seja menor que a soma das medidas dos outros dois e maior que o valor absoluto da diferença entre essas medidas.
+
+aulassnc@gmail.com
